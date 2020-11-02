@@ -1,0 +1,8 @@
+--class-path src
+--main Main
+--js docs/main.js
+-D analyzer-optimize
+-D js-es=6
+
+
+--cmd cp .template/index.html docs/index.html
